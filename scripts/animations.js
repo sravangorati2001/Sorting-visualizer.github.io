@@ -1,6 +1,6 @@
 function div_Update(cont,height,color){
 cont.style.backgroundColor=color;
-cont.style.margin="0% 0.1%";
+cont.style.margin="0% 0.2%";
 cont.style.width="5%";
 cont.style.height=height+"%";
 }
