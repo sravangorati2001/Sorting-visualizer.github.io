@@ -7,7 +7,6 @@ async function mSort(){
     enableButtons()
 }
  async function mergeSort(low , high){
-  console.log('hello');
   if(low<high){
       var mid=Math.floor((low+high)/2);
      await timeout(ms);
